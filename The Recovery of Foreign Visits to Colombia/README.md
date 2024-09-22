@@ -39,10 +39,16 @@ In this project I used Microsoft Excel, MySQL Workbench, and Tableau.
 **Tableau**
 * Created a line chart to visualize the number of foreign non-resident visitors over time.
 * Created a pie chart to visualize the 5 most visited cities.
-* Created a bar chart to display the number of foreign visitors by country of origin.
+* Created a bar chart to display the number of foreign visitors by country of origin. It can be used as a filter to view the data for a specific country of origin.
 * Created a bar chart to display the number of visitors by month.
+* Created a time range filter that allows users to select and analyze data from 2015 to 2023
 
-* ## Conclusions
+![Dashboard in Tableau]([relative-or-absolute-path-to-image](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/The%20Recovery%20of%20Foreign%20Visits%20to%20Colombia/Dashboard.png))
+
+Explore the dahsboard at [Tableau Public](https://public.tableau.com/app/profile/diego.morales7723/viz/RecoveryofForeignVististoColombia/Dashboard3)
+
+
+## Conclusions
 * My analysis sought to determine whether Colombia experienced a year after 2019 with more international visitors than in 2019, as a measure of recovery from the tourism disruptions caused by COVID-19. The data reveals that in both 2022 and 2023, Colombia registered more foreign visitors than in 2019, indicating that the country successfully recovered from the pandemic's impact on tourism by 2022. 
 * Over the entire period from 2015 to 2023, Cartagena maintained its position as the second most visited city, attracting 18.45% of foreign visitors, while Medellín ranked third with 17.19%. However, when focusing on the period from 2019 to 2023, Medellín emerged as the second most popular destination, with 19.77% of foreign visitors compared to Cartagena's 19.08%. Medellín surpassed Cartagena in both 2022 and 2023, demonstrating its successful ascent to the second most visited city in Colombia by foreigners during this period.  
 * The top 5 countries of origin between 2015 and 2023 were United States, Mexico, Ecuador, Perú and Brazil. Notably, the number of visitors from the United States is remarkably higher, exceeding the number of visitors from Mexico, the second-highest country of origin, by more than 350%. 
