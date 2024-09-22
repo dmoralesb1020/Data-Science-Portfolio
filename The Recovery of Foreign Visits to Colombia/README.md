@@ -41,9 +41,9 @@ In this project I used Microsoft Excel, MySQL Workbench, and Tableau.
 * Created a pie chart to visualize the 5 most visited cities.
 * Created a bar chart to display the number of foreign visitors by country of origin. It can be used as a filter to view the data for a specific country of origin.
 * Created a bar chart to display the number of visitors by month.
-* Created a time range filter that allows users to select and analyze data from 2015 to 2023
+* Created a time range filter that allows users to select and analyze data from 2015 to 2023.
 
-![Dashboard in Tableau]([relative-or-absolute-path-to-image](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/The%20Recovery%20of%20Foreign%20Visits%20to%20Colombia/Dashboard.png))
+![Dashboard in Tableau](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/The%20Recovery%20of%20Foreign%20Visits%20to%20Colombia/Dashboard.png)
 
 Explore the dahsboard at [Tableau Public](https://public.tableau.com/app/profile/diego.morales7723/viz/RecoveryofForeignVististoColombia/Dashboard3)
 
