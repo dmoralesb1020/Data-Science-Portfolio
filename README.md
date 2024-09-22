@@ -9,3 +9,11 @@ In this project I explored the trends in international tourism to Colombia, part
 **Skills:** Data cleaning, data analysis, visualization.
 
 **Technology:** Microsoft Excel, MySQL Workbench, and Tableau.
+
+### Project 2: EDA for FoodHub app
+
+This project involved analyzing a dataset from FoodHub, a food aggregator company that connects users to multiple restaurants through a single smartphone app. I conducted an Exploratory Data Analysis (EDA) to uncover insights and address key questions aimed at helping the company enhance its business strategy and improve user experience.
+
+**Skills:** univariate analysis, multivariate analysis.
+
+**Technology:** Python (NumPy, Pandas, Matplotlib, Seaborn).
