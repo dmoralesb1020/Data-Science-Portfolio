@@ -30,7 +30,7 @@ The data contains the different data related to a food order. The detailed data 
 
 ## Project overview
 
-The data analysis was conducted using Python, utilizing key libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The complete code along with the conclusions are available in the [Jupyter notebook](https://github.com/README.md) Below are the steps I undertook during this project:
+The data analysis was conducted using Python, utilizing key libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The complete code along with the conclusions are available in the [Jupyter notebook](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/EDA%20-%20FoodHub/FoodHub%20Data%20Analysis.ipynb) Below are the steps I undertook during this project:
 
 * Setting up the environment
 * Handling missing values
