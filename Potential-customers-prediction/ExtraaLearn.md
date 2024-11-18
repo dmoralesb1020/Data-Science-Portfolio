@@ -1,8 +1,6 @@
 # ExtraaLearn Project
 
-## Context
-
-The EdTech industry has been surging in the past decade immensely. The modern era of online education has enforced a lot in its growth and expansion beyond any limit. Due to having many dominant features like ease of information sharing, personalized learning experience, transparency of assessment, etc, it is now preferable to traditional education.
+## Introduction
 
 The online education sector has witnessed rapid growth and is attracting a lot of new customers. Due to this rapid growth, many new companies have emerged in this industry. With the availability and ease of use of digital marketing resources, companies can reach out to a wider audience with their offerings. The customers who show interest in these offerings are termed as leads. There are various sources of obtaining leads for Edtech companies, like
 
@@ -12,8 +10,6 @@ The online education sector has witnessed rapid growth and is attracting a lot o
 
 The company then nurtures these leads and tries to convert them to paying customers. For this, the representative from the organization connects with the lead on call or through email to share further details.
 
-## Objective
-
 ExtraaLearn is an initial stage startup that offers programs on cutting-edge technologies to students and professionals to help them upskill/reskill. With a large number of leads being generated on a regular basis, one of the issues faced by ExtraaLearn is to identify which of the leads are more likely to convert so that they can allocate resources accordingly. 
 
 This project will focus on the following objectives:
@@ -21,6 +17,13 @@ This project will focus on the following objectives:
 * Finding the factors driving the lead conversion process
 * Creating a profile of the leads which are likely to convert
 
+## Questions for Analysis
+
+1. Leads will have different expectations from the outcome of the course and the current occupation may play a key role in getting them to participate in the program. Find out how current occupation affects lead status.
+2. The company's first impression on the customer must have an impact. Do the first channels of interaction have an impact on the lead status?
+3. The company uses multiple modes to interact with prospects. Which way of interaction works best?
+4. The company gets leads from various channels such as print media, digital media, referrals, etc. Which of these channels have the highest lead conversion rate?
+5. People browsing the website or mobile application are generally required to create a profile by sharing their personal data before they can access additional information.Does having more details about a prospect increase the chances of conversion?
 
 ## Data Description
 
@@ -47,3 +50,21 @@ The data contains the different attributes of leads and their interaction detail
 * educational_channels: Flag indicating whether the lead had heard about ExtraaLearn in the education channels like online forums, discussion threads, educational websites, etc.
 * referral: Flag indicating whether the lead had heard about ExtraaLearn through reference.
 * status: Flag indicating whether the lead was converted to a paying customer or not.
+
+## Project Overview
+
+In this project I performed an Exploratory Data Analysis (EDA) and built a predictive model to assess lead conversion, utilizing Decision Trees and Random Forest algorithms. I leveraged Python libraries such as Pandas, Seaborn, and Scikit-learn to analyze and model the data.
+The analysis was driven by a set of questions related to lead conversion. By the end of the project, I was able to:
+* Answer the initial questions.
+* Identify the key factors influencing lead conversion.
+* Develop a profile of leads most likely to convert into paying customers.
+
+The complete code along with the conclusions are available in the Jupyter notebook. Below are the steps I undertook during this project:
+
+* Performing univariate and bivariate analysis for numerical and categorical variables.
+* Answering key questions related to lead conversion.
+* Building a Decision Tree model and tuning its hyperparameters to improve its performance.
+* Building a Random Forest model and tuning its hyperparameters to improve its performance.
+* Presenting conclusions regarding key factors influencing lead conversion.
+* Developing a profile of leads most likely to convert into paying customers.
+
