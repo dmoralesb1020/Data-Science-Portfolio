@@ -59,7 +59,7 @@ The analysis was driven by a set of questions related to lead conversion. By the
 * Identify the key factors influencing lead conversion.
 * Develop a profile of leads most likely to convert into paying customers.
 
-The complete code along with the conclusions are available in the [Jupyter notebook](Potential-customers-prediction/Potential_Customers_Prediction_with_Decision_Trees.ipynb). Below are the steps I undertook during this project:
+The complete code along with the conclusions are available in the [Jupyter notebook](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/Potential-customers-prediction/Potential_Customers_Prediction_with_Decision_Trees.ipynb). Below are the steps I undertook during this project:
 
 * Performing univariate and bivariate analysis for numerical and categorical variables.
 * Answering key questions related to lead conversion.
