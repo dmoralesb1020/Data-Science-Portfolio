@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of p
 ## Projects Included:
 ### Project 1: The recovery of foreign visits to Colombia
 
-In this project I explored the trends in international tourism to Colombia, particularly focusing on the recovery trajectory following the disruption caused by COVID-19. 
+In this project, I explored the trends in international tourism to Colombia, particularly focusing on the recovery trajectory following the disruption caused by COVID-19. 
 
 **Skills:** Data cleaning, data analysis, visualization.
 
@@ -17,3 +17,12 @@ This project involved analyzing a dataset from FoodHub, a food aggregator compan
 **Skills:** univariate analysis, multivariate analysis.
 
 **Technology:** Python (NumPy, Pandas, Matplotlib, Seaborn).
+
+### Project 3: Potential customers prediction with Decision Trees
+
+In this project, I performed an Exploratory Data Analysis (EDA) and built a predictive model to assess lead conversion, using Decision Trees and Random Forest algorithms. The dataset includes various attributes of leads, along with their interactions with ExtraaLearn, an online education platform. Through the analysis, I identified key factors influencing lead conversion and created a profile of leads most likely to convert into paying customers.
+
+
+**Skills:** decision trees, random forest, univariate analysis, bivariate analysis.
+
+**Technology:** Python (Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn).
