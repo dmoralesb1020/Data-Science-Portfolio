@@ -26,3 +26,21 @@ In this project, I performed an Exploratory Data Analysis (EDA) and built a pred
 **Skills:** decision trees, random forest, univariate analysis, bivariate analysis.
 
 **Technology:** Python (Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn).
+
+### Project 4: Amazon Recommendation System
+
+This project focuses on building a product recommendation system for Amazon using a dataset of user ratings for electronic products. The goal is to predict the ratings of products a user has not yet interacted with, allowing the system to offer personalized recommendations.
+
+The project follows these main steps:
+1.	Data Collection and Preparation: The dataset was loaded, cleaned, and preprocessed. 
+2.	Exploratory Data Analysis: Summary statistics, data distributions, and missing values were analyzed. 
+3.	Rank-Based Recommendation: A popularity-based system was implemented as a baseline, recommending products based on their average rating and popularity.
+4.	Collaborative Filtering: This approach leveraged user-item interactions to predict ratings. User-user and item-item similarity-based collaborative filtering models were built and evaluated.
+5.	Model-Based Collaborative Filtering: Matrix factorization using Singular Value Decomposition (SVD) was implemented to address the limitations of similarity-based models. 
+6.	Hyperparameter Tuning: Each model's hyperparameters were fine-tuned using Grid Search with cross-validation to optimize their performance. 
+7.	Evaluation and Comparison: The performance of each model was compared using various metrics like RMSE, precision, recall, and F1-score. The SVD model achieved the lowest RMSE and the highest F1-score.
+
+
+**Skills:** Rank-Based Recommendation, Model-Based Collaborative Filtering, Singular Value Decomposition (SVD), Hyperparameter Tuning.
+
+**Technology:** Python (Surprise, NumPy, Pandas, Matplotlib, Seaborn).
