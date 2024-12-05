@@ -21,7 +21,7 @@ The Amazon dataset contains the following attributes:
 
 This project focuses on building a product recommendation system for Amazon using a dataset of user ratings for electronic products. The goal was to predict the ratings of products a user has not yet interacted with, allowing the system to offer personalized recommendations.
 
-The complete code along with the conclusions are available in the [Jupyter notebook](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/Potential-customers-prediction/Potential_Customers_Prediction_with_Decision_Trees.ipynb). Below are the steps I undertook during this project:
+The complete code along with the conclusions are available in the [Jupyter notebook](https://github.com/dmoralesb1020/Data-Science-Portfolio/blob/main/Amazon%20Recommendation%20System/Recommendation_Systems_Amazon.ipynb). Below are the steps I undertook during this project:
 
 1.	**Data Collection and Preparation:** The dataset was loaded, cleaned, and preprocessed. 
 2.	**Exploratory Data Analysis:** Summary statistics, data distributions, and missing values were analyzed. 
